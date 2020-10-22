@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mephisto83/veronica-lessons/issues"
   },
-  "homepage": "https://github.com/mephisto83/veronica-lessons#readme"
+  "homepage": "https://github.com/mephisto83/veronica-lessons#readme",
+  "dependencies": {
+    "command-line-args": "^5.1.1"
+  }
 }
